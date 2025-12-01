@@ -1,0 +1,32 @@
+{
+    "Vraj": {
+        "owner_name": "Vraj",
+        "address": "0x90916869d6a5db468efed50aab4bcf1c0f7a38b1",
+        "balance": 40.0,
+        "password_hash": null
+    },
+    "Hacker": {
+        "owner_name": "Hacker",
+        "address": "0x581cd8f54ab8781cf92ec72e1b21b31fdaabdce6",
+        "balance": 150.0,
+        "password_hash": null
+    },
+    "Alice": {
+        "owner_name": "Alice",
+        "address": "0x5d413f649e82cfcaf8b65bf9ef0cc7cc4063fa3a",
+        "balance": 60.0,
+        "password_hash": null
+    },
+    "vraj": {
+        "owner_name": "vraj",
+        "address": "0xed73970de837bc33db15861290696bbfd8f4b9e1",
+        "balance": 0.0,
+        "password_hash": null
+    },
+    "H1": {
+        "owner_name": "H1",
+        "address": "0x86bd7701dc1ce78b8cb615bc8ae0b0792213d552",
+        "balance": 0.0,
+        "password_hash": "a5883a3b65c26bc616c02c0e7474816b0435ff17dfb2c4c602d8bd600fa7dba9"
+    }
+}
