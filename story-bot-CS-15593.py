@@ -3,7 +3,7 @@ import requests
 import json
 
 BASE_URL = "https://api.closerouter.com/v1/chat/completions"
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJkMzMzN2Y3NS0zYzkyLTQ5ODMtYjFhNS1hZjI5NjI3OWJiMTUiLCJlbWFpbCI6ImRlc2FpdnJhajczQGdtYWlsLmNvbSIsImtleUlkIjoiODUyZGRjMGMtZTViYy00OWNhLTgzODMtODJhYjgyMTNiNmUzIiwidHlwZSI6ImFwaV9rZXkiLCJpYXQiOjE3NTU1OTIyMzl9.mEehlbrI854THJ2PrdE7pR-a2DlLRGUpMvG5FzotK50"
+API_KEY = "HEHE"
 
 HEADERS = {
     "Authorization": f"Bearer {API_KEY}",
