@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import requests
 import json
 
@@ -222,4 +221,3 @@ def main():
 
 if __name__ == "__main__":
     main()
->>>>>>> 02d8fb9b1833cac61454a4f570ed2ee9e5943232
